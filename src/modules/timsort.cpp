@@ -33,7 +33,7 @@ int GetMinrun(int n){
         r |= n & 1;
         n >>= 1;
     }
-    return (n + r) * 4;
+    return (n + r);
 }
 
 bool comp(int a, int b){
