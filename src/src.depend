@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1698017410 source:c:\users\kto\desktop\timsort\src\timsort.cpp
+	"timsort.h"
+	<iostream>
+	<vector>
+
+1698001398 c:\users\kto\desktop\timsort\src\timsort.h
+	<iostream>
+	<vector>
+
+1698015334 source:c:\users\kto\desktop\timsort\src\main.cpp
+	<bits/stdc++.h>
+	"timsort.h"
+
