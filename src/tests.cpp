@@ -17,7 +17,7 @@ int main()
 
     bool is_all_ok = true;
     std::ofstream out;
-    out.open("tests/result.txt");
+    out.open("tests_result/result.txt");
 
     for (int i = 0; i < n_test.size(); i++){
         vector <int> to_timsort(n_test[i]);
